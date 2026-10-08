@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/homebrew-tap/commit/58eb90012beed930fcc0a7a7cc16077bbf66b64e",
       "git:hexsha": "58eb90012beed930fcc0a7a7cc16077bbf66b64e",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     },
     {
