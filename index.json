@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "homebrew-tap",
+  "versions": [
+    {
+      "commit": "58eb90012beed930fcc0a7a7cc16077bbf66b64e",
+      "tag": "main",
+      "parsed_at": "2026-10-08T11:23:22.701215+00:00"
+    }
+  ]
+}
