@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/homebrew-tap/commit/58eb90012beed930fcc0a7a7cc16077bbf66b64e",
       "git:hexsha": "58eb90012beed930fcc0a7a7cc16077bbf66b64e",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-08T11:23:22.700741+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/homebrew-tap/commit/01f9d9adf8241c48d02d9eb9e48611ba8a83f5bc",
